@@ -1,78 +1,45 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-002: Language Cards (RP-02)
 
-## Description
+<h1>Hi I’m Selman 👋. Welcome to my  Languages Cards Project With React </h1>
 
-Project aims to create a Languages Cards App.
+<br>
 
-## Problem Statement
+<p>This project is one of my first react projects. It was very useful for me to learn how to use components and props in react.</p>
 
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+<br>
 
-## Project Skeleton
+<h2>Live Link of the Project</h2>
 
-```
-002-Language Cards(folder)
-|
-|----readme.md         # Given to the students (Definition of the project)
-SOLUTION
-├── public
-│     └── index.html
-├── src
-│    ├── components
-│    │       └── card
-│    │             ├── Card.css
-│    │             └── Card.js
-│    ├── helper
-│    │       └── data.js
-│    ├── assets.js
-│    │       └── [images]
-│    ├── App.js
-│    ├── App.css
-│    ├── index.js
-│    └── index.css
-├── package.json
-└── yarn.lock
-```
+<br>
 
-## Expected Outcome
 
-![Project 003 Snapshot](language-cards.gif)
+[Click here!](https://languagecards-react.netlify.app/)
 
-## Objective
+<br>
 
-Build a Languages Cards App using ReactJS.
+<h2>Libraries and Technologies I use</h2>
+ 
+ * React 
+ * React DOM
+ * Components
+ * Props
 
-### At the end of the project, following topics are to be covered;
 
-- HTML
 
-- CSS
+ 
+ <br>
+ 
+<h2>How to install</h2>
 
-- JS
 
-- ReactJS
+<br>
 
-### At the end of the project, students will be able to;
+In the project directory, you can run:
 
-- improve coding skills within HTML & CSS & JS & ReactJS.
+### `npm start`
 
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-## Steps to Solution
+<h2>How does my project look</h2>
 
-- Step 1: Create React App using `npx create-react-app language-cards`
 
-- Step 2: Build Languages Cards app using [data.js](data.js), images in [assets](./assets/) folder.
-
-- Step 4: Push your application into your own public repo on Github
-
-- Step 5: Add project gif to your project and README.md file.
-
-## Notes
-
-- You can add additional functionalities to your app.
-
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+![language](https://github.com/omersb/LanguageCards/blob/master/language-cards.gif?raw=true)
