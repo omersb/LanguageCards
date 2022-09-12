@@ -1,6 +1,6 @@
 
 
-<h1>Hi I’m Selman 👋. Welcome to my  Languages Cards Project With React </h1>
+<h1>Hi I’m Ömer Said 👋. Welcome to my  Languages Cards Project With React </h1>
 
 <br>
 
