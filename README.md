@@ -13,7 +13,7 @@
 <br>
 
 
-[Click here!](https://languagecards-react.netlify.app/)
+[Click here!](https://osb-languagecards-react.netlify.app/)
 
 <br>
 
